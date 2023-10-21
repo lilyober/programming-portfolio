@@ -1,0 +1,33 @@
+h5 {
+    font-size: 30px;
+    color: darkolivegreen;
+    text-align: center;
+}
+
+h1 {
+    color: greenyellow;
+    font-size: 20px;
+}
+
+h2 {
+    color: greenyellow;
+    font-size: 20px;
+}
+
+h3 {
+    color: greenyellow;
+    font-size: 20px;
+}
+
+h4 {
+    color: greenyellow;
+    font-size: 20px;
+}
+
+.back {
+    float: left;
+}
+
+.hob {
+    float: right;
+}
