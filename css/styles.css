@@ -1,10 +1,10 @@
-h5 {
+h2 {
     font-size: 30px;
     color: darkolivegreen;
     text-align: center;
-    background-color: pink;
+    background-color: antiquewhite;
     padding: 10px;
-    border: 10px solid greenyellow;
+    border: 10px solid olivedrab;
 }
 
 
@@ -19,11 +19,12 @@ h5 {
 
 h1 {
     color: forestgreen;
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
 }
 
 .me {
+    font-size: 15px;
     text-align: center;
     padding: 10px;
 }
@@ -31,24 +32,23 @@ h1 {
 .pro {
     float: right;
     float: left;
-    margin: 1px;
-    border: 3px;
-    padding: 10px;
+    margin-left: 95px;
+    position: fixed;
 }
+
 
 .hob {
     float: right;
-    margin: 0px;
-    border-style: solid;
-    border: 20px green;
-    padding: 10px;
+    /* margin-right: 50px; */
 }
 
 .back {
     float: left;
-    padding: 10px;
+    /* margin-left: 30px; */
+
 }
 
 body {
+    font-family: 'Times New Roman', Times, serif;
     background-color: rgb(240, 231, 218);
 }
