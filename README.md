@@ -20,3 +20,8 @@ _{My programming portfolio starts off with a title, a picture of a flower, and a
 ## Known Bugs
 
 * _no known bugs_
+
+## Licence
+_If you run into any issues, feel free to make changes or contact the author_
+
+Copyright (c) _10/23/2023_Lily Ober_
