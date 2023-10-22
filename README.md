@@ -1,8 +1,8 @@
 # _Programming-Portfolio_
 
-#### By _**{By Lily Ober}**_
+#### By _**By Lily Ober**_
 
-#### _{Practicing CSS/HTML for first independant project at Epicodus.}_
+#### _Practicing CSS/HTML for first independant project at Epicodus._
 
 ## Technologies Used
 
@@ -11,7 +11,7 @@
 
 ## Description
 
-_{My programming portfolio starts off with a title, a picture of a flower, and an About Me section. As you scroll down there are three collums with my background, prohects, and interests listed below.}_
+_My programming portfolio starts off with a title, a picture of a flower, and an About Me section. As you scroll down there are three collums with my background, prohects, and interests listed below._
 
 ## Setup/Installation Requirements
 
