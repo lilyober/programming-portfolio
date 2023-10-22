@@ -30,25 +30,18 @@ h1 {
 }
 
 .pro {
-    float: right;
-    float: left;
-    margin-left: 95px;
-    position: fixed;
+    text-align: center;
 }
-
 
 .hob {
     float: right;
-    /* margin-right: 50px; */
 }
 
 .back {
     float: left;
-    /* margin-left: 30px; */
-
 }
 
 body {
-    font-family: 'Times New Roman', Times, serif;
     background-color: rgb(240, 231, 218);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
