@@ -2,32 +2,53 @@ h5 {
     font-size: 30px;
     color: darkolivegreen;
     text-align: center;
+    background-color: pink;
+    padding: 10px;
+    border: 10px solid greenyellow;
+}
+
+
+.img {
+    background-color: orange;
+    padding: 20px;
+    width: 400px;
+    margin: auto;
+    height: auto;
+    display: block;
 }
 
 h1 {
-    color: greenyellow;
+    color: forestgreen;
     font-size: 20px;
+    text-align: center;
 }
 
-h2 {
-    color: greenyellow;
-    font-size: 20px;
+.me {
+    text-align: center;
+    padding: 10px;
 }
 
-h3 {
-    color: greenyellow;
-    font-size: 20px;
-}
-
-h4 {
-    color: greenyellow;
-    font-size: 20px;
-}
-
-.back {
+.pro {
+    float: right;
     float: left;
+    margin: 1px;
+    border: 3px;
+    padding: 10px;
 }
 
 .hob {
     float: right;
+    margin: 0px;
+    border-style: solid;
+    border: 20px green;
+    padding: 10px;
+}
+
+.back {
+    float: left;
+    padding: 10px;
+}
+
+body {
+    background-color: rgb(240, 231, 218);
 }
